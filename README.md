@@ -1,6 +1,9 @@
 # C3_UD12
 UML SQL (Isidre, Veronika, Adria).
-Act5 Isidre, act11 Veronika, act17 Adria.
+PRESENTAR: Act5 Isidre, act11 Veronika, act17 Adria.
+Isidre 1-5-7-8-13-14
+Veronika 2-9-10-11-15-16
+Adria 3-4-6-12-17-18
 
 Actividad 05
 ![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164258494-ff7c2463-99e7-4b46-858c-64a9a2526588.png)
