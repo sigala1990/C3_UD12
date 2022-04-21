@@ -17,4 +17,4 @@ Actividad 11
 
 
 Actividad 17 
-![Act17](https://user-images.githubusercontent.com/9555509/164319549-09c19644-8625-4101-9efc-c3c6a1be5b21.png)
+![act17](https://user-images.githubusercontent.com/9555509/164423551-da4a2542-9e03-4899-8539-a9f616ec567f.png)
