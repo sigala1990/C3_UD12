@@ -21,6 +21,16 @@
 ![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164430288-f1c09a90-2606-4c2c-9391-b0b895fad529.png)
 
 
+<h2>Actividad 07</h2>
+
+![Diagrama07 drawio](https://user-images.githubusercontent.com/103040138/164524015-8afa152d-6509-42a0-adba-994ef89f1216.png)
+
+
+<h2>Actividad 08</h2>
+
+![Diagrama08 drawio](https://user-images.githubusercontent.com/103040138/164524186-7c5a32e3-3085-43f6-9bcb-1ca80d827bc0.png)
+
+
 
 <h2>Actividad 09</h2>
 
@@ -32,6 +42,16 @@
 
 ![image](https://user-images.githubusercontent.com/89861246/164462794-1079c236-2d50-401c-ae21-c5910af58910.png)
 ![image](https://user-images.githubusercontent.com/89861246/164464322-52f36278-9c8b-4113-8b63-6b935a98284c.png)
+
+
+<h2>Actividad 13</h2>
+
+![Diagrama13 drawio](https://user-images.githubusercontent.com/103040138/164524368-0aaeead7-1c09-47d7-b1ea-3ca2e8e6014a.png)
+
+
+<h2>Actividad 14</h2>
+
+![Diagrama14 drawio](https://user-images.githubusercontent.com/103040138/164524526-386d1f80-803d-4292-a7de-b1eceb52cda7.png)
 
 
 
