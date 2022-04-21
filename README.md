@@ -12,7 +12,8 @@
 
 <h2>Actividad 05</h2>
 
-![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164258494-ff7c2463-99e7-4b46-858c-64a9a2526588.png)
+![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164430288-f1c09a90-2606-4c2c-9391-b0b895fad529.png)
+
 
 
 <h2>Actividad 11</h2>
