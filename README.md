@@ -25,4 +25,4 @@
 
 <h2>Actividad 17 </h2>
 
-![act17](https://user-images.githubusercontent.com/9555509/164423551-da4a2542-9e03-4899-8539-a9f616ec567f.png)
+![act17](https://user-images.githubusercontent.com/9555509/164427136-664fba9a-4a24-4610-8951-8f2617996687.png)
