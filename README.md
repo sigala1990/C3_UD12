@@ -1,6 +1,7 @@
 # C3_UD12
 UML SQL (Isidre, Veronika, Adria).
-PRESENTAR: Act5 Isidre, act11 Veronika, act17 Adria.
+<br>PRESENTAR: Act5 Isidre, act11 Veronika, act17 Adria.<br>
+
 <ul>
   <li>Isidre 1-5-7-8-13-14</li>
 
