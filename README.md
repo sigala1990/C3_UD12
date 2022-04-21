@@ -19,6 +19,8 @@
 <h2>Actividad 05</h2>
 
 ![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164430288-f1c09a90-2606-4c2c-9391-b0b895fad529.png)
+![Modelo relacional 05](https://user-images.githubusercontent.com/103040138/164533689-cd1cb69f-de5a-4639-be45-cc9c5e67579f.png)
+
 
 
 <h2>Actividad 07</h2>
