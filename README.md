@@ -7,7 +7,8 @@ Actividad 05
 
 
 Actividad 11
-![image](https://user-images.githubusercontent.com/89861246/164320911-f6e15ad9-46b9-4e70-a8c1-fe9645bd04fd.png)
+![image](https://user-images.githubusercontent.com/89861246/164392005-a6eb1921-a2b5-4175-afbb-ab3ec4bcc6bd.png)
+
 
 
 
