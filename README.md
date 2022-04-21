@@ -3,9 +3,9 @@
 <br>PRESENTAR: Act5 Isidre, act11 Veronika, act17 Adria.<br>
 
 <ul>
-  <li>Isidre 1-5-7-8-13-14</li>
+  <li>[]Isidre 1-5-7-8-13-14</li>
 
-  <li>Veronika 2-9-10-11-15-16</li>
+  <li>[x]Veronika 2-9-10-11-15-16</li>
 
 <li>Adria 3-4-6-12-17-18</li>
 </ul>
