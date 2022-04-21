@@ -62,6 +62,11 @@
 
 
 
+<h2>Actividad 16</h2>
+
+![image](https://user-images.githubusercontent.com/89861246/164558697-0e90648d-40a4-4aab-ba05-944a7e72d549.png)
+
+
 
 <h2>Actividad 17 </h2>
 
