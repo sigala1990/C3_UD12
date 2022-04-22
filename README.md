@@ -11,7 +11,8 @@
 </ul>
 
 <h2>Actividad 01</h2>
-![Diagrama01 drawio](https://user-images.githubusercontent.com/103040138/164738311-95de34d2-a198-4018-8fc3-2428abb97505.png)
+
+![Diagrama01 drawio](https://user-images.githubusercontent.com/103040138/164738478-f534f515-fe1d-4d75-a714-33c87685bc6b.png)
 
 
 
