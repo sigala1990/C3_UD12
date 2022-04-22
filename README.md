@@ -18,8 +18,8 @@
 
 <h2>Actividad 05</h2>
 
-![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164430288-f1c09a90-2606-4c2c-9391-b0b895fad529.png)
-![Modelo relacional 05](https://user-images.githubusercontent.com/103040138/164533689-cd1cb69f-de5a-4639-be45-cc9c5e67579f.png)
+![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164732282-ad0e928c-e93d-4505-94bb-16e47ddd59d9.png)
+![Modelo relacional 05](https://user-images.githubusercontent.com/103040138/164732457-95a436a8-60e2-4b73-88d8-1b47a31d66d1.png)
 
 
 
