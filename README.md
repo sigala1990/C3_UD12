@@ -48,7 +48,9 @@
 <h2>Actividad 11</h2>
 
 ![image](https://user-images.githubusercontent.com/89861246/164462794-1079c236-2d50-401c-ae21-c5910af58910.png)
-![image](https://user-images.githubusercontent.com/89861246/164464322-52f36278-9c8b-4113-8b63-6b935a98284c.png)
+
+![image](https://user-images.githubusercontent.com/89861246/164726071-2bd16a4d-e50e-40ff-a5e7-6d9ef42dafa3.png)
+
 
 
 <h2>Actividad 13</h2>
