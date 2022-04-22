@@ -10,6 +10,11 @@
 <li>Adria 3-4-6-12-17-18</li>
 </ul>
 
+<h2>Actividad 01</h2>
+![Diagrama01 drawio](https://user-images.githubusercontent.com/103040138/164738311-95de34d2-a198-4018-8fc3-2428abb97505.png)
+
+
+
 <h2>Actividad 02</h2>
 
 ![image](https://user-images.githubusercontent.com/89861246/164476583-267b542a-8a59-4369-81ed-cfd957a7b3a3.png)
