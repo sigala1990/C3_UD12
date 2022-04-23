@@ -83,4 +83,6 @@
 
 <h2>Actividad 17 </h2>
 
-![act17](https://user-images.githubusercontent.com/9555509/164443628-a19029fd-268b-4f3b-9172-83c984e6c4ae.png)
+![act17_ER_Relacional](https://user-images.githubusercontent.com/9555509/164914723-01b7b0be-a628-4559-9a24-325faedcbbad.png)
+
+
