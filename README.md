@@ -57,6 +57,9 @@
 
 ![image](https://user-images.githubusercontent.com/89861246/164726071-2bd16a4d-e50e-40ff-a5e7-6d9ef42dafa3.png)
 
+![image](https://user-images.githubusercontent.com/89861246/165072728-397ff289-4138-4cd0-91a2-9931f5451b72.png)
+
+
 
 
 <h2>Actividad 13</h2>
