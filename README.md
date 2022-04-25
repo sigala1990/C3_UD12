@@ -69,6 +69,10 @@
 
 
 
+<h2>Actividad 12</h2>
+
+![act12ER](https://user-images.githubusercontent.com/9555509/165132520-c56bba83-6f8a-4110-ac93-31e3db4dc05a.png)
+
 
 <h2>Actividad 13</h2>
 
