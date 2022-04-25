@@ -25,6 +25,11 @@
 ![act3ER](https://user-images.githubusercontent.com/9555509/165127371-b4d1584f-beee-4932-ae7b-fde6ca8413db.png)
 
 
+<h2>Actividad 04</h2>
+
+![act4](https://user-images.githubusercontent.com/9555509/165128522-c6583458-c445-424e-93c0-4b7a4b4ffd8a.png)
+
+
 <h2>Actividad 05</h2>
 
 ![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164732282-ad0e928c-e93d-4505-94bb-16e47ddd59d9.png)
