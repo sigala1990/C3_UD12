@@ -35,6 +35,9 @@
 ![Diagrama05 drawio](https://user-images.githubusercontent.com/103040138/164732282-ad0e928c-e93d-4505-94bb-16e47ddd59d9.png)
 ![Modelo relacional 05](https://user-images.githubusercontent.com/103040138/164732457-95a436a8-60e2-4b73-88d8-1b47a31d66d1.png)
 
+<h2>Actividad 06</h2>
+
+![act6ER](https://user-images.githubusercontent.com/9555509/165134761-579bb8cc-0e6d-4207-be9d-1ce33bc03278.png)
 
 
 <h2>Actividad 07</h2>
