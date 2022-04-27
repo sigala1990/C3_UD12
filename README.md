@@ -106,4 +106,10 @@
 ![imagen](https://user-images.githubusercontent.com/9555509/165073617-160a16f8-2c6b-4916-b374-987b283366c4.png)
 
 
+<h2>Actividad 18 </h2>
+
+![act18](https://user-images.githubusercontent.com/9555509/165615586-09eee3a4-5b07-41eb-b4d2-4ac54b806855.png)
+
+
+
 
